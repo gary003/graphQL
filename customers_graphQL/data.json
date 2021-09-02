@@ -1,0 +1,78 @@
+{
+  "customers": [
+    {
+      "id": "PzaopaY",
+      "name": "Alex Kid",
+      "email": "AK213@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "R56qpaY",
+      "name": "Juan Sanchez",
+      "email": "js@gmail.com",
+      "age": 65
+    },
+    {
+      "name": "Yemi Diallo",
+      "email": "YD@gmail.com",
+      "age": 55,
+      "id": "k4VrKkD"
+    },
+    {
+      "name": "Tanya Slowski",
+      "email": "TS@outlook.com",
+      "age": 32,
+      "id": "WSdpbaY"
+    },
+    {
+      "id": "WSiopaY",
+      "name": "Jim Palmer",
+      "email": "jp@gmail.com",
+      "age": 31
+    }
+  ],
+  "addresses": [
+    {
+      "id": "21356",
+      "customerId": "WSiopaY",
+      "country": "Canada",
+      "textAddress": "312 main street Vancouver"
+    },
+    {
+      "id": "21376",
+      "customerId": "WSiopaY",
+      "country": "Canada",
+      "textAddress": "45 second street Toronto"
+    },
+    {
+      "id": "24356",
+      "customerId": "PzaopaY",
+      "country": "Scotland",
+      "textAddress": "3 sesame street Edimburg"
+    },
+    {
+      "id": "21656",
+      "customerId": "k4VrKkD",
+      "country": "Nigeria",
+      "textAddress": "31 main street Lagos"
+    },
+    {
+      "customerId": "WSiopaY",
+      "country": "Canada",
+      "textAddress": "3265 main street Calgary",
+      "id": "Z1i-Yry"
+    },
+    {
+      "customerId": "WSdpbaY",
+      "country": "Poland",
+      "textAddress": "12 yau uiek Warsaw",
+      "id": "Zk4cnrs"
+    },
+    {
+      "customerId": "R56qpaY",
+      "country": "Puerto Rico",
+      "textAddress": "12 calle lochas",
+      "id": "Zg6yujh"
+    }
+  ]
+}
